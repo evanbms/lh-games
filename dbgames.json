@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Descrição do jogo 1",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Descrição do jogo 2",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Jogo 3",
+      "descricao": "Descrição do jogo 3",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": 5,
+      "produto": "Batman ",
+      "descricao": "Jogo Adulto Modificado duas vezes",
+      "foto": "jogo1.PNG",
+      "preco": 475
+    },
+    {
+      "id": 6,
+      "produto": "Need for Speed",
+      "descricao": "Jogo de corrida",
+      "foto": "jogo3.PNG",
+      "preco": 256
+    },
+    {
+      "id": 7,
+      "produto": "Warriors",
+      "descricao": "Jogo de Luta",
+      "foto": "jogo1.PNG",
+      "preco": 180
+    },
+    {
+      "id": 8,
+      "produto": "Incrível Hulk",
+      "descricao": "Jogo de Ação",
+      "foto": "jogo1.PNG",
+      "preco": 125.3
+    }
+  ]
+}
